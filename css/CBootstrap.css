@@ -1,0 +1,125 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/*.form-control-dark {
+  color: #fff;
+  background-color: var(--bs-dark);
+  border-color: var(--bs-gray);
+}
+.form-control-dark:focus {
+  color: #fff;
+  background-color: var(--bs-dark);
+  border-color: #fff;
+  box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+}
+body{
+    background: #3C2C18;
+}
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
+.text-small {
+  font-size: 85%;
+}
+
+.dropdown-toggle {
+  outline: 0;
+}*/
+
+
+.curveado{
+    position: absolute;
+    width: 1000px;
+    bottom: 10px;
+}
+
+.loge{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+}
+#BotonB{
+    font-size: 25px;
+    color: #fff;
+    text-shadow: orange 5px 2px;
+}
+#botonJ{
+     background-image: linear-gradient(to right top, #5c2805, #6e3816, #804926, #925a36, #a56c47, #b27954, #bf8661, #cc946f, #d6a17c, #e0ad88, #ebba96, #f5c7a3);
+}
+#botonT{
+    text-decoration: none;
+    font-size: 25px;
+    color: #fff;
+    text-shadow: orange 5px 2px;
+    
+}
+#resbody{
+    position: absolute;
+    top: 100vh;
+}
+
+.capeque{
+    height: 55px;
+    width: 55px;
+}
+
+#granos{
+    height: 150px;
+    margin-top: 300px;
+}
+
+#back{
+    z-index: 0;
+}
+
+#front1{
+    z-index: 20;
+}
+
+#sub{
+    text-shadow: -1px -1px 1px #fff, 1px -1px 1px #fff, -1px 1px 1px #fff, 1px 1px 1px #fff;
+}
+
+.tarjeta{
+    height: 500px;
+    width: 100%;
+}
+
+#fotage{
+    background-image: linear-gradient(to right top, #5c2805, #6e3816, #804926, #925a36, #a56c47, #b27954, #bf8661, #cc946f, #d6a17c, #e0ad88, #ebba96, #f5c7a3);
+}
+
+#mover{
+}
+
+#asd{
+    height: 390px;
+    width: 100%;
+}
+
+.h1cu{
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#serv{
+    background-image: url(../recursos/recuServ/cafe.png);
+}
+.card-img-top{
+    height: 360px;
+}
+
+#locu{
+    font-size: 55px;
+}
+
+#rad{
+    height: 60px;
+    width: 60px;
+}
